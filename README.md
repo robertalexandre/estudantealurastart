@@ -1,7 +1,7 @@
 # estudantealurastart
 BEM VINDO AO MEU PERFIL🤎
 
-### Meu nome é Robert Alexandre dos Santos Moura
+### Meu nome é **Robert Alexandre dos Santos Moura**
 
 Estou estudando na Alura
 
